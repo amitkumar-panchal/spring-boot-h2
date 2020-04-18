@@ -6,7 +6,9 @@ We will need to import the project in any of the IDE (i.e. Eclipse, NetBeans or 
 H2 Console URL : http://localhost:8080/h2/
 
 JDBL URL : jdbc:h2:~/bookstore
+
 Username : admin
+
 password : admin
 
 You will see three tables (TBLUSER, TBLROLE & TBLBOOK) created and populated.
